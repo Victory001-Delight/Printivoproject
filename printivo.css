@@ -76,6 +76,7 @@ gap: 40px;
 font-size:14px;
 font-weight: 600;
 background-color: #f7f6f4;
+position: sticky;
 }
 nav a{
     text-decoration: none;
